@@ -1,15 +1,14 @@
 <h2 align="left">👩🏽‍💻 Taisa da Silva</h2>
-
-
 <br clear="both">
-
 <h6 align="left">Desenvolvedora front-end</h6>
+
+
+
 
 ###
 
 <h3 align="left">🌟 Sobre mim</h3>
 
-###
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na UNIASSELVI.  <br>Gosto de criar interfaces modernas e funcionais, unindo design e praticidade.  <br>Tenho interesse em tudo que envolve HTML, CSS e JavaScript, e estou sempre buscando aprender mais sobre front-end e boas práticas no desenvolvimento web.</p>
 
