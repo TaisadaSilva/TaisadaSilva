@@ -1,6 +1,5 @@
 <h2 align="left">👩🏽‍💻 Taisa da Silva</h2>
 
-###
 
 <br clear="both">
 
